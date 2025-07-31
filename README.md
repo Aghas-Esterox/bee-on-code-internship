@@ -30,7 +30,7 @@ Feel free to connect with me for collaboration or feedback!
 
 **Name:** Aghas Ghazaryan  
 **GitHub:** [github.com/Aghas-Esterox](https://github.com/Aghas-Esterox)  
-**Email:** aghas.ghazaryan@esterox.am
-
+**Email:** aghas.ghazaryan@esterox.am  
+**Telegram:** [@Aghasy_8](https://t.me/Aghasy_8)
 
 
