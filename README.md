@@ -28,8 +28,9 @@ These projects were built to:
 
 Feel free to connect with me for collaboration or feedback!
 
-Name: Aghas Ghazaryan
-GitHub: github.com/Aghas-Esterox
-Email: aghas.ghazaryan@esterox.am
+**Name:** Aghas Ghazaryan  
+**GitHub:** [github.com/Aghas-Esterox](https://github.com/Aghas-Esterox)  
+**Email:** aghas.ghazaryan@esterox.am
+
 
 
