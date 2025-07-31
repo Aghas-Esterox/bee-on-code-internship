@@ -8,8 +8,8 @@ The internship focused on modern web development using **React.js** and **Next.j
 
 - **React.js**
 - **Next.js**
-- **JavaScript / TypeScript** (depending on the project)
-- **Tailwind CSS**, **SCSS**, or other styling tools
+- **JavaScript / TypeScript**
+- **Tailwind CSS**, **SCSS**
 - **Component-based architecture**
 
 ## 🎯 Purpose
